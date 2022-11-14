@@ -9,4 +9,4 @@ var byeSpeaker={
 };
 window.byeSpeaker=byeSpeaker;
 })(window);
-// Barry Edwards, ©2022
+
