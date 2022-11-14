@@ -10,4 +10,4 @@ var helloSpeaker={
 
 window.helloSpeaker=helloSpeaker;
 })(window);
-// Barry Edwards, ©2022
+
