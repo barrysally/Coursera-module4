@@ -12,4 +12,4 @@ for (var i in names) {
 }
 
 })(window);
-// Barry Edwards, ©2022
+
